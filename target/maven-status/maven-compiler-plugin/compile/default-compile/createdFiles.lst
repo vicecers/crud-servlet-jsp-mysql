@@ -1,0 +1,5 @@
+com\cersocode\controller\EmpleadoController.class
+com\cersocode\model\Empleado.class
+com\cersocode\conexion\Conexion.class
+com\cersocode\dao\EmpleadoDAO.class
+com\cersocode\dao\EmpleadoDAOImpl.class
